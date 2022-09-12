@@ -4,7 +4,7 @@
 <body>
 
 <?php
-echo "Study " . $_GET['subject'] . " at " . $_GET['web'];
+echo "Study " . $_GET['subject'] . " at " . $_GET['https://hwk2.ngoral.oucreate.com/#'];
 ?>
 
 </body>
