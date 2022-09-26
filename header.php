@@ -24,7 +24,7 @@
           <a class="nav-link" href="indexGET.php">Get</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Function</a>
+          <a class="nav-link" href="function.php">Function</a>
         </li>
       </ul>
     </div>
